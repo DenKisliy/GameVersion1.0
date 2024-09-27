@@ -26,3 +26,4 @@ Content/ParagonProps/Agora/Rocks/Textures/T_LargePlainsBoulder002_D.uasset
 Content/SampleMap/ParagonSample_Daylight_BuiltData.uasset
 Content/ParagonProps/Monolith/Dusk/Monolith_Dusk_AssetMap_BuiltData.uasset
 Content/ParagonProps/Monolith/Dawn/Monolith_Dawn_AssetMap_BuiltData.uasset
+*.h
