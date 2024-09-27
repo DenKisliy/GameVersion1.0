@@ -27,3 +27,5 @@ Content/SampleMap/ParagonSample_Daylight_BuiltData.uasset
 Content/ParagonProps/Monolith/Dusk/Monolith_Dusk_AssetMap_BuiltData.uasset
 Content/ParagonProps/Monolith/Dawn/Monolith_Dawn_AssetMap_BuiltData.uasset
 *.h
+Content/KiteDemo/Environments/Cliffs/Cliff01/T_Cliff01_D_CC_R.uasset
+Content/KiteDemo/Environments/Cliffs/Cliff01/T_Cliff01_N.uasset
